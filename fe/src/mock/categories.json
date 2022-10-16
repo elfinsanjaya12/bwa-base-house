@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "id": 1, "name": "City" },
+    { "id": 2, "name": "Village" },
+    { "id": 3, "name": "Countryside" },
+    { "id": 4, "name": "Apartment" }
+  ]
+}
